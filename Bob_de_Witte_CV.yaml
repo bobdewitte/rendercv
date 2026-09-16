@@ -1,49 +1,48 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Bob de Witte
-  headline: >-
-    With a strong analytical and academic background, Bob has 5 years of consulting
-    experience bridging business and IT on BI, data and digital transformation
-    projects. He excels at translating complex, abstract business needs into
-    concrete functional requirements and realizable data solutions, mapping
-    processes, data flows and data models. He manages stakeholders from
-    operational teams up to board level, builds sustainable and widely supported
-    solutions, mentors colleagues and gives trainings.
   location: Amsterdam, Netherlands
   email: bob.de.witte@hotmail.com
-  photo:
   phone: "+31613776687"
   website:
+  photo:
   social_networks:
     - network: LinkedIn
-      username: www.linkedin.com/in/bob-de-witte/
+      username: bob-de-witte
   custom_connections:
+  headline: >-
+    Bob has 5 years of consulting experience bridging business and IT on BI,
+    data and digital transformation projects. He excels at translating complex,
+    abstract business needs into concrete functional requirements and realizable
+    data solutions, mapping processes, data flows and data models. He manages
+    stakeholders from operational teams up to board level, builds sustainable
+    and widely supported solutions, mentors colleagues and gives trainings.
   sections:
     experience:
       - company: Xomnia
-        position: Analytics Engineer & Data Analyst
+        position: Analytics Engineer & Data Analyst (Medior > Senior)
         start_date: 2024-04
         end_date: present
-        location: 
+        location:
         summary: ""
         highlights:
-          - "Translates business and information needs within IKEA's order allocation domain into architectural designs, data models and Power BI reporting, serving 1000+ unique monthly users globally while safeguarding the coherence between processes, data and systems. Special focus on end-user-facing decision making to steer the business"
-          - "Gathers requirements directly from business stakeholders and facilitates decision making; e.g. led a comprehensive evaluation of Copilot in Power BI for Albert Heijn on behalf of Microsoft to provide strategic adoption advice"
-          - "Maps data flows and sets up data quality frameworks to win stakeholders' trust and create a single source of truth across a variety of data domains"
-          - "Modernized Xomnia's internal reporting from Google Sheets to a robust stack of Python, dbt, Github Actions and Power BI, translating reporting needs into a scalable solution that reduced manual work and sped up decision making"
-          - "Contributes internally to mentoring junior colleagues, giving trainings, technical scoping and team strategy. Received an early promotion to a senior level"
+          - "Translates business and information needs within IKEA's order allocation domain into architectural designs, data models and Power BI reporting, serving **1000+ unique monthly users** globally. Special focus on end-user-facing decision making to steer the business"
+          - "Led a comprehensive evaluation of Copilot in Power BI for Albert Heijn on behalf of Microsoft to provide **strategic, company-wide adoption** advice"
+          - "Maps data flows and sets up data quality frameworks to **improve data reliability** and create a single source of truth"
+          - "Modernized Xomnia's internal reporting from Google Sheets to a robust stack of Python, dbt, Github Actions and Power BI, reducing manual work and **speeding up decision making**"
+          - "Contributes internally to mentoring colleagues, giving trainings, technical sales for new projects and team strategy. Received an **early promotion** to a senior level"
       - company: ADC (Amsterdam Data Collective)
-        position: Data Consultant
-        start_date: 2023-10
+        position: Data Consultant (Medior)
+        start_date: 2023-09
         end_date: 2024-03
         location: 
         summary: ""
         highlights:
-          - "Analyzed the business and information needs of an agriculture company and translated these into a modern data platform and reporting environment, integrating sources such as Hubspot, Shopify and HRM & CRM systems to steer the business"
+          - "Analyzed the business and information needs of an agriculture company and translated these into a modern data platform and reporting environment, integrating sources such as Hubspot, Shopify and HRM & CRM systems"
           - "Modernized ADC's internal reporting from Excel to a modern data stack in Azure and Power BI, reducing monthly manual work from 2 days to 15 minutes"
-          - "Co-developed a website using Django and Vue to better inform Dutch municipalities about dementia"
+          - "Co-developed a [website](https://dementie.nl) to better inform Dutch municipalities about dementia"
       - company: Harvest
-        position: Data Consultant
+        position: Data Consultant (Junior)
         start_date: 2022-05
         end_date: 2023-08
         location: 
@@ -51,7 +50,7 @@ cv:
         highlights:
           - "Led data strategy, analysis and reporting projects for the biggest Dutch roadside assistance company, working closely with the Business Change & Innovation department"
           - "Facilitated decision making by regularly presenting strategic findings and recommendations to management and board-level executives"
-          - "Completed the Harvest Data Engineering program including 20 masterclasses, gaining broad knowledge on data science and - engineering topics"
+          - "Completed the Harvest Data Engineering program including 20 masterclasses, gaining broad knowledge on data science and data engineering topics"
       - company: Accenture
         position: Data & AI Intern
         start_date: 2021-09
@@ -60,9 +59,9 @@ cv:
         summary: ""
         highlights:
           - "Conducted fundamental research on automated image data cleaning techniques for Deep Learning Computer Vision algorithms"
-          - "Published academic work and won best presentation award at IPMV 2022: Witte, B. D., Bouarfa, S., & Geradts, Z. (2022, March). A quantitative comparison of automated cleaning techniques for web scraped image data of ‘Smart Cities’. In Proceedings of the 4th International Conference on Image Processing and Machine Vision (pp. 64-71)"
+          - "Published academic work and won best presentation [award](https://www.ipmv.org/2022.html) at IPMV 2022: Witte, B. D., Bouarfa, S., & Geradts, Z. (2022, March). A quantitative comparison of automated cleaning techniques for web scraped image data of ‘Smart Cities’. In Proceedings of the 4th International Conference on Image Processing and Machine Vision (pp. 64-71)"
       - company: Bynder
-        position: Junior Data Scientist
+        position: Data Scientist (Junior)
         start_date: 2021-05
         end_date: 2021-08
         location: 
@@ -71,28 +70,28 @@ cv:
           - "Successfully revealed churn indicators and built a machine learning model to predict customer churn, which helped improve customer retention efforts"
     education:
       - institution: University of Amsterdam (UvA)
-        area: "Information studies: Data Science"
+        area: "Information Studies: Data Science"
         degree: MSc
         start_date: 2020-09
         end_date: 2022-01
         location: 
-        summary: "GPA: 8.5/10, Magna Cum Laude | Thesis grade: 8.5 | Interests: Machine learning - Computer Vision - Data Analysis"
+        summary: "GPA: 8.5/10, Magna Cum Laude | Thesis grade: 8.5"
       - institution: University of Amsterdam (UvA)
         area: Physics & Astronomy
         degree: BSc
         start_date: 2016-09
         end_date: 2020-08
         location: 
-        summary: "GPA: 8.1/10, Cum Laude | Thesis grade: 8.0 | Interests: Black Holes - Astrophysics - Exoplanets"
+        summary: "GPA: 8.1/10, Cum Laude | Thesis grade: 8.0"
       - institution: University of Cape Town (UCT)
-        area: Minor Exchange Program, Civil Engineering
-        degree: 
+        area: Civil Engineering
+        degree: Minor
         start_date: 2019-07
         end_date: 2019-12
         location: 
         summary: ""
       - institution: Maurick College
-        area: Gymnasium, Nature & Technology Profile
+        area: Gymnasium, Nature & Technology
         degree: 
         start_date: 2009-09
         end_date: 2015-06
@@ -100,33 +99,36 @@ cv:
         summary: "GPA: 8.3/10, Cum Laude"
     skills:
       - label: Programming languages
-        details: SQL | Python | DAX | YAML
+        details: SQL, Python, DAX, YAML
       - label: Cloud
-        details: Google (GCP) | Fabric | Databricks | Snowflake | Azure
+        details: Google (GCP), Fabric, Databricks, Snowflake, Azure
       - label: Engineering
-        details: PySpark | dbt | Github | API frameworks | Github Actions | Docker | Fivetran
+        details: PySpark, dbt, Github, API frameworks, Github Actions, Docker, Fivetran
       - label: BI / Data visualization
-        details: PowerBI | Streamlit | Qlik | Looker Studio | Figma
+        details: PowerBI, Streamlit, Qlik, Looker Studio, Figma
       - label: Hard skills
-        details: Requirements Gathering | Data Analytics | Visualization | Modeling | Quality | Dashboarding | Agile | Version control | ETL/ELT | Conversational Analytics | Machine/Deep Learning
+        details: Requirements Gathering, Data Analytics, Visualization, Modeling, Quality, Dashboarding, Agile, Version control, ETL/ELT, Conversational Analytics, Machine/Deep Learning
       - label: Soft skills
-        details: Critical thinking | Stakeholder Management | Strong verbal and written communication skills | Teaching | Mentoring | Strategic thinking | Ownership
+        details: Critical thinking, Stakeholder Management, Strong verbal and written communication skills, Teaching, Mentoring, Strategic thinking, Ownership
       - label: Certificates
-        details: Influential Communication; Design Thinking; PL-300 Microsoft Power BI; dbt Fundamentals; Azure AZ-900; PSM-1
+        details: Influential Communication, Design Thinking, PL-300 Microsoft Power BI, dbt Fundamentals, Azure AZ-900, PSM-1
   # removed sections: projects, publications, patents, invited_talks, selected_honors per user request
 design:
-  theme: engineeringresumes
+  theme: classic
   page:
     size: a4
-    top_margin: 0.5in
-    bottom_margin: 0.5in
-    left_margin: 0.5in
-    right_margin: 0.5in
-    show_footer: true
+    top_margin: 0.35in
+    bottom_margin: 0.35in
+    left_margin: 0.35in
+    right_margin: 0.35in
+    show_footer: false
     show_top_note: false
 
+  colors:
+    headline: rgb(0, 0, 0)
+
   typography:
-    line_spacing: 0.5em
+    line_spacing: 0.4em
     alignment: justified
     font_family:
       body: Source Sans 3
@@ -134,22 +136,22 @@ design:
       headline: Source Sans 3
       connections: Source Sans 3
     font_size:
-      body: 9pt
+      body: 8.5pt
       name: 26pt
-      headline: 9pt
+      headline: 8pt
       connections: 9pt
 
   section_titles:
     type: with_partial_line
     line_thickness: 0.5pt
     space_above: 0.4cm
-    space_below: 0.2cm
+    space_below: 0.15cm
 
   # top-level section settings
   sections:
     allow_page_break: true
-    space_between_regular_entries: 0.9em
-    space_between_text_based_entries: 0.2em
+    space_between_regular_entries: 0.8em
+    space_between_text_based_entries: 0.15em
     show_time_spans_in:
       - experience
 
