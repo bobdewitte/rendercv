@@ -1,0 +1,193 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Bob de Witte
+  location: Amsterdam, Netherlands
+  email: bob.de.witte@hotmail.com
+  phone: "+31613776687"
+  website:
+  photo:
+  social_networks:
+    - network: LinkedIn
+      username: bob-de-witte
+  custom_connections:
+  headline: >-
+    Data & business analyst with 5 years of experience in BI, data and digital
+    transformation, focused on operational analytics, KPI definition and
+    stakeholder-driven decision support. He turns ambiguity into structured
+    analysis, translates business needs into clear requirements, and delivers
+    data-informed recommendations across cross-functional teams.
+  sections:
+    experience:
+      - company: Xomnia
+        position: Data & Business Analyst (Medior > Senior)
+        start_date: 2024-04
+        end_date: present
+        location:
+        summary: ""
+        highlights:
+          - "Partnered with IKEA's order allocation domain to translate operational questions into clear business requirements, KPI definitions and decision-support reporting used by 1,000+ unique monthly users globally. The work supported both day-to-day operations and strategic business decisions across functions."
+          - "Led a structured evaluation of Copilot in Power BI for Albert Heijn on behalf of Microsoft, assessing business value, governance and adoption scenarios, impacting 5000+ employees directly on how AI was used."
+          - "Helped Bridgefund to migrate end-to-end data flows and defined quality controls to improve reporting reliability, reduce ambiguity and deliver a reliable single source of truth for enterprise-wide decision-making." 
+          - "Reworked recurring reporting from Google Sheets into a Python, dbt, GitHub Actions and Power BI solution, reducing manual effort by 50% and increasing the speed and consistency of management reporting."
+          - "Contributes internally to mentoring colleagues, giving trainings, technical sales for new projects and team strategy. Received an early promotion to a senior level."
+      - company: ADC (Amsterdam Data Collective)
+        position: Data Consultant (Medior)
+        start_date: 2023-09
+        end_date: 2024-03
+        location: 
+        summary: ""
+        highlights:
+          - "Analysed business and information needs for an agricultural client and translated them into a target-state reporting model, integrating HubSpot, Shopify, HRM and CRM data to support management reporting and operational oversight. The new data connections enabled a more reliable reporting foundation, reduced manual reporting effort by 2 days per month, and improved visibility for operational decision-making across teams."
+          - "Modernized internal reporting from Excel to an Azure and Power BI stack, reducing monthly manual reporting effort from 2 days to 15 minutes and increasing the reliability of recurring outputs."
+          - "Co-developed a [website](https://www.dementieinkaart.nl/mosaic/thema-s/samenvatting) to improve access to dementia-related information for Dutch municipalities and support better-informed guidance."
+      - company: Harvest
+        position: Data Consultant (Junior)
+        start_date: 2022-05
+        end_date: 2023-08
+        location: 
+        summary: ""
+        highlights:
+          - "Led data strategy, analysis and reporting initiatives for the largest roadside assistance provider in the Netherlands, working closely with the Business Change & Innovation department to translate operational questions into decision-relevant analytics."
+          - "Facilitated decision-making by presenting findings and recommendations to management and board-level stakeholders, supporting strategic prioritisation and operational improvement."
+          - "Completed the Harvest Data Engineering programme, including 20 masterclasses, broadening expertise across data engineering, data science and applied analytics in a business context."
+      - company: Accenture
+        position: Data & AI Intern
+        start_date: 2021-09
+        end_date: 2022-02
+        location: 
+        summary: ""
+        highlights:
+          - "Conducted research into automated image data cleaning techniques for deep learning computer vision algorithms, with a focus on improving data quality and reducing manual remediation."
+          - "Published academic work and won best presentation [award](https://www.ipmv.org/2022.html) at IPMV 2022: Witte, B. D., Bouarfa, S., & Geradts, Z. (2022, March). A quantitative comparison of automated cleaning techniques for web scraped image data of ‘Smart Cities’. In Proceedings of the 4th International Conference on Image Processing and Machine Vision (pp. 64-71)."
+      - company: Bynder
+        position: Data Scientist (Junior)
+        start_date: 2021-05
+        end_date: 2021-08
+        location: 
+        summary: ""
+        highlights:
+          - "Identified churn indicators and built a machine learning model to predict customer churn, supporting retention efforts with a more evidence-based prioritisation of interventions."
+    education:
+      - institution: University of Amsterdam (UvA)
+        area: "Information Studies: Data Science"
+        degree: MSc
+        start_date: 2020-09
+        end_date: 2022-01
+        location: 
+        summary: "GPA: 8.5/10, Magna Cum Laude | Thesis grade: 8.5"
+      - institution: University of Amsterdam (UvA)
+        area: Physics & Astronomy
+        degree: BSc
+        start_date: 2016-09
+        end_date: 2020-08
+        location: 
+        summary: "GPA: 8.1/10, Cum Laude | Thesis grade: 8.0"
+      - institution: University of Cape Town (UCT)
+        area: Exchange Program, Civil Engineering
+        degree: 
+        start_date: 2019-07
+        end_date: 2019-12
+        location: 
+        summary: ""
+      - institution: Maurick College
+        area: Gymnasium, Nature & Technology
+        degree: 
+        start_date: 2009-09
+        end_date: 2015-06
+        location: 
+        summary: "GPA: 8.3/10, Cum Laude"
+    skills:
+      - label: Business analysis
+        details: Requirements gathering, process mapping, gap analysis, KPI definition, stakeholder management, solution design, change management, cross-functional collaboration, project management
+      - label: Data & reporting
+        details: SQL, Python, DAX, Power BI, Looker, reporting, data analysis, data quality, data storytelling, self-service analytics, visualization
+      - label: Tools / technical proficiency
+        details: PySpark, dbt, GitHub, GitHub Actions, Docker, Fivetran, Google (GCP), Fabric, Databricks, Snowflake, Azure, YAML, API frameworks
+      - label: Certificates
+        details: Influential Communication (Bureau Zuidema), Design Thinking, PL-300 Microsoft Power BI, dbt Fundamentals, Azure AZ-900, PSM-1
+      - label: Domain & Clients
+        details: Retail (IKEA, Albert Heijn/Microsoft, Wilderland), Finance (Bridgefund, ABN AMRO Verzekeringen), Manufacturing (Sandvik), Mobility (ANWB), Healthcare (Sigra, VWS)
+  # removed sections: projects, publications, patents, invited_talks, selected_honors per user request
+design:
+  theme: classic
+
+  page:
+    size: a4
+    top_margin: 0.35in
+    bottom_margin: 0.35in
+    left_margin: 0.35in
+    right_margin: 0.35in
+    show_footer: false
+    show_top_note: false
+
+  colors:
+    headline: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+
+  links:
+    underline: true
+    show_external_link_icon: false
+
+  header:
+    connections:
+      phone_number_format: international
+
+  typography:
+    line_spacing: 0.4em
+    alignment: justified
+    font_family:
+      body: Source Sans 3
+      name: Source Sans 3
+      headline: Source Sans 3
+      connections: Source Sans 3
+    font_size:
+      body: 9pt
+      name: 26pt
+      headline: 8pt
+      connections: 9pt
+
+  section_titles:
+    type: with_partial_line
+    line_thickness: 0.5pt
+    space_above: 0.4cm
+    space_below: 0.15cm
+
+  # top-level section settings
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 0.8em
+    space_between_text_based_entries: 0.15em
+    show_time_spans_in:
+      - experience
+
+  entries:
+    date_and_location_width: 4.0cm
+    side_space: 0.15cm
+    space_between_columns: 0.08cm
+    allow_page_break: true
+    short_second_row: true
+    summary:
+      space_above: 0cm
+      space_left: 0cm
+    highlights:
+      bullet: •
+      nested_bullet: •
+      space_left: 0.12cm
+      space_above: 0cm
+      space_between_items: 0cm
+      space_between_bullet_and_text: 0.4em
+settings:
+  current_date: today
+  render_command:
+    output_folder: rendercv_output
+    typst_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.md
+    html_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.html
+    png_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  pdf_title: NAME - CV

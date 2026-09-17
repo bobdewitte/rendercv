@@ -21,7 +21,7 @@
   colors-headline: rgb(0, 0, 0),
   colors-connections: rgb(0, 79, 144),
   colors-section-titles: rgb(0, 79, 144),
-  colors-links: rgb(0, 79, 144),
+  colors-links: rgb(0, 0, 0),
   colors-footer: rgb(128, 128, 128),
   colors-top-note: rgb(128, 128, 128),
   typography-line-spacing: 0.4em,
@@ -32,7 +32,7 @@
   typography-font-family-headline: "Source Sans 3",
   typography-font-family-connections: "Source Sans 3",
   typography-font-family-section-titles: "Source Sans 3",
-  typography-font-size-body: 8.5pt,
+  typography-font-size-body: 9pt,
   typography-font-size-name: 26pt,
   typography-font-size-headline: 8pt,
   typography-font-size-connections: 9pt,
@@ -45,7 +45,7 @@
   typography-bold-headline: false,
   typography-bold-connections: false,
   typography-bold-section-titles: true,
-  links-underline: false,
+  links-underline: true,
   links-show-external-link-icon: false,
   header-alignment: center,
   header-photo-width: 3.5cm,
@@ -81,19 +81,19 @@
   date: datetime(
     year: 2026,
     month: 9,
-    day: 16,
+    day: 17,
   ),
 )
 
 
 = Bob de Witte
 
-  #headline([Bob has 5 years of consulting experience bridging business and IT on BI, data and digital transformation projects. He excels at translating complex, abstract business needs into concrete functional requirements and realizable data solutions, mapping processes, data flows and data models. He manages stakeholders from operational teams up to board level, builds sustainable and widely supported solutions, mentors colleagues and gives trainings.])
+  #headline([Data & business analyst with 5 years of experience in BI, data and digital transformation, focused on operational analytics, KPI definition and stakeholder-driven decision support. He turns ambiguity into structured analysis, translates business needs into clear requirements, and delivers data-informed recommendations across cross-functional teams.])
 
 #connections(
   [#connection-with-icon("location-dot")[Amsterdam, Netherlands]],
   [#link("mailto:bob.de.witte@hotmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[bob.de.witte\@hotmail.com]]],
-  [#link("tel:+31-6-13776687", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[06 13776687]]],
+  [#link("tel:+31-6-13776687", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[+31 6 13776687]]],
   [#link("https://linkedin.com/in/bob-de-witte", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[bob-de-witte]]],
 )
 
@@ -102,17 +102,17 @@
 
 #regular-entry(
   [
-    #strong[Xomnia], Analytics Engineer & Data Analyst (Medior \> Senior)
+    #strong[Xomnia], Data & Business Analyst (Medior \> Senior)
 
-    - Translates business and information needs within IKEA's order allocation domain into architectural designs, data models and Power BI reporting, serving #strong[1000+ unique monthly users] globally. Special focus on end-user-facing decision making to steer the business
+    - Partnered with IKEA's order allocation domain to translate operational questions into clear business requirements, KPI definitions and decision-support reporting used by 1,000+ unique monthly users globally. The work supported both day-to-day operations and strategic business decisions across functions.
 
-    - Led a comprehensive evaluation of Copilot in Power BI for Albert Heijn on behalf of Microsoft to provide #strong[strategic, company-wide adoption] advice
+    - Led a structured evaluation of Copilot in Power BI for Albert Heijn on behalf of Microsoft, assessing business value, governance and adoption scenarios, impacting 5000+ employees directly on how AI was used.
 
-    - Maps data flows and sets up data quality frameworks to #strong[improve data reliability] and create a single source of truth
+    - Helped Bridgefund to migrate end-to-end data flows and defined quality controls to improve reporting reliability, reduce ambiguity and deliver a reliable single source of truth for enterprise-wide decision-making.
 
-    - Modernized Xomnia's internal reporting from Google Sheets to a robust stack of Python, dbt, Github Actions and Power BI, reducing manual work and #strong[speeding up decision making]
+    - Reworked recurring reporting from Google Sheets into a Python, dbt, GitHub Actions and Power BI solution, reducing manual effort by 50\% and increasing the speed and consistency of management reporting.
 
-    - Contributes internally to mentoring colleagues, giving trainings, technical sales for new projects and team strategy. Received an #strong[early promotion] to a senior level
+    - Contributes internally to mentoring colleagues, giving trainings, technical sales for new projects and team strategy. Received an early promotion to a senior level.
 
   ],
   [
@@ -129,11 +129,11 @@
   [
     #strong[ADC (Amsterdam Data Collective)], Data Consultant (Medior)
 
-    - Analyzed the business and information needs of an agriculture company and translated these into a modern data platform and reporting environment, integrating sources such as Hubspot, Shopify and HRM & CRM systems
+    - Analysed business and information needs for an agricultural client and translated them into a target-state reporting model, integrating HubSpot, Shopify, HRM and CRM data to support management reporting and operational oversight. The new data connections enabled a more reliable reporting foundation, reduced manual reporting effort by 2 days per month, and improved visibility for operational decision-making across teams.
 
-    - Modernized ADC's internal reporting from Excel to a modern data stack in Azure and Power BI, reducing monthly manual work from 2 days to 15 minutes
+    - Modernized internal reporting from Excel to an Azure and Power BI stack, reducing monthly manual reporting effort from 2 days to 15 minutes and increasing the reliability of recurring outputs.
 
-    - Co-developed a #link("https://dementie.nl")[website] to better inform Dutch municipalities about dementia
+    - Co-developed a #link("https://www.dementieinkaart.nl/mosaic/thema-s/samenvatting")[website] to improve access to dementia-related information for Dutch municipalities and support better-informed guidance.
 
   ],
   [
@@ -150,11 +150,11 @@
   [
     #strong[Harvest], Data Consultant (Junior)
 
-    - Led data strategy, analysis and reporting projects for the biggest Dutch roadside assistance company, working closely with the Business Change & Innovation department
+    - Led data strategy, analysis and reporting initiatives for the largest roadside assistance provider in the Netherlands, working closely with the Business Change & Innovation department to translate operational questions into decision-relevant analytics.
 
-    - Facilitated decision making by regularly presenting strategic findings and recommendations to management and board-level executives
+    - Facilitated decision-making by presenting findings and recommendations to management and board-level stakeholders, supporting strategic prioritisation and operational improvement.
 
-    - Completed the Harvest Data Engineering program including 20 masterclasses, gaining broad knowledge on data science and data engineering topics
+    - Completed the Harvest Data Engineering programme, including 20 masterclasses, broadening expertise across data engineering, data science and applied analytics in a business context.
 
   ],
   [
@@ -171,9 +171,9 @@
   [
     #strong[Accenture], Data & AI Intern
 
-    - Conducted fundamental research on automated image data cleaning techniques for Deep Learning Computer Vision algorithms
+    - Conducted research into automated image data cleaning techniques for deep learning computer vision algorithms, with a focus on improving data quality and reducing manual remediation.
 
-    - Published academic work and won best presentation #link("https://www.ipmv.org/2022.html")[award] at IPMV 2022: Witte, B. D., Bouarfa, S., & Geradts, Z. (2022, March). A quantitative comparison of automated cleaning techniques for web scraped image data of ‘Smart Cities’. In Proceedings of the 4th International Conference on Image Processing and Machine Vision (pp. 64-71)
+    - Published academic work and won best presentation #link("https://www.ipmv.org/2022.html")[award] at IPMV 2022: Witte, B. D., Bouarfa, S., & Geradts, Z. (2022, March). A quantitative comparison of automated cleaning techniques for web scraped image data of ‘Smart Cities’. In Proceedings of the 4th International Conference on Image Processing and Machine Vision (pp. 64-71).
 
   ],
   [
@@ -190,7 +190,7 @@
   [
     #strong[Bynder], Data Scientist (Junior)
 
-    - Successfully revealed churn indicators and built a machine learning model to predict customer churn, which helped improve customer retention efforts
+    - Identified churn indicators and built a machine learning model to predict customer churn, supporting retention efforts with a more evidence-based prioritisation of interventions.
 
   ],
   [
@@ -239,7 +239,7 @@
 
 #education-entry(
   [
-    #strong[University of Cape Town (UCT)], Civil Engineering
+    #strong[University of Cape Town (UCT)], Exchange Program, Civil Engineering
 
   ],
   [
@@ -247,7 +247,7 @@
 
   ],
   degree-column: [
-    #strong[Minor]
+    
   ],
 )
 
@@ -269,16 +269,12 @@
 
 == Skills
 
-#strong[Programming languages:] SQL, Python, DAX, YAML
+#strong[Business analysis:] Requirements gathering, process mapping, gap analysis, KPI definition, stakeholder management, solution design, change management, cross-functional collaboration, project management
 
-#strong[Cloud:] Google (GCP), Fabric, Databricks, Snowflake, Azure
+#strong[Data & reporting:] SQL, Python, DAX, Power BI, Looker, reporting, data analysis, data quality, data storytelling, self-service analytics, visualization
 
-#strong[Engineering:] PySpark, dbt, Github, API frameworks, Github Actions, Docker, Fivetran
+#strong[Tools \/ technical proficiency:] PySpark, dbt, GitHub, GitHub Actions, Docker, Fivetran, Google (GCP), Fabric, Databricks, Snowflake, Azure, YAML, API frameworks
 
-#strong[BI \/ Data visualization:] PowerBI, Streamlit, Qlik, Looker Studio, Figma
+#strong[Certificates:] Influential Communication (Bureau Zuidema), Design Thinking, PL-300 Microsoft Power BI, dbt Fundamentals, Azure AZ-900, PSM-1
 
-#strong[Hard skills:] Requirements Gathering, Data Analytics, Visualization, Modeling, Quality, Dashboarding, Agile, Version control, ETL\/ELT, Conversational Analytics, Machine\/Deep Learning
-
-#strong[Soft skills:] Critical thinking, Stakeholder Management, Strong verbal and written communication skills, Teaching, Mentoring, Strategic thinking, Ownership
-
-#strong[Certificates:] Influential Communication, Design Thinking, PL-300 Microsoft Power BI, dbt Fundamentals, Azure AZ-900, PSM-1
+#strong[Domain & Clients:] Retail (IKEA, Albert Heijn\/Microsoft, Wilderland), Finance (Bridgefund, ABN AMRO Verzekeringen), Manufacturing (Sandvik), Mobility (ANWB), Healthcare (Sigra, VWS)

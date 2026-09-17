@@ -127,6 +127,10 @@ design:
   colors:
     headline: rgb(0, 0, 0)
 
+  header:
+    connections:
+      phone_number_format: international
+
   typography:
     line_spacing: 0.4em
     alignment: justified

@@ -7,7 +7,7 @@
 
 
 # Experience
-## **Xomnia**, Analytics Engineer & Data Analyst (Medior > Senior)
+## **Xomnia**, Data & Business Analyst (Medior > Senior)
 
 Apr 2024 – present
 
@@ -15,15 +15,15 @@ Apr 2024 – present
 
 2 years 6 months
 
-- Translates business and information needs within IKEA's order allocation domain into architectural designs, data models and Power BI reporting, serving **1000+ unique monthly users** globally. Special focus on end-user-facing decision making to steer the business
+- Partnered with IKEA's order allocation domain to translate operational questions into clear business requirements, KPI definitions and decision-support reporting used by 1,000+ unique monthly users globally. The work supported both day-to-day operations and strategic business decisions across functions.
 
-- Led a comprehensive evaluation of Copilot in Power BI for Albert Heijn on behalf of Microsoft to provide **strategic, company-wide adoption** advice
+- Led a structured evaluation of Copilot in Power BI for Albert Heijn on behalf of Microsoft, assessing business value, governance and adoption scenarios, impacting 5000+ employees directly on how AI was used.
 
-- Maps data flows and sets up data quality frameworks to **improve data reliability** and create a single source of truth
+- Helped Bridgefund to migrate end-to-end data flows and defined quality controls to improve reporting reliability, reduce ambiguity and deliver a reliable single source of truth for enterprise-wide decision-making.
 
-- Modernized Xomnia's internal reporting from Google Sheets to a robust stack of Python, dbt, Github Actions and Power BI, reducing manual work and **speeding up decision making**
+- Reworked recurring reporting from Google Sheets into a Python, dbt, GitHub Actions and Power BI solution, reducing manual effort by 50% and increasing the speed and consistency of management reporting.
 
-- Contributes internally to mentoring colleagues, giving trainings, technical sales for new projects and team strategy. Received an **early promotion** to a senior level
+- Contributes internally to mentoring colleagues, giving trainings, technical sales for new projects and team strategy. Received an early promotion to a senior level.
 
 
 
@@ -35,11 +35,11 @@ Sept 2023 – Mar 2024
 
 7 months
 
-- Analyzed the business and information needs of an agriculture company and translated these into a modern data platform and reporting environment, integrating sources such as Hubspot, Shopify and HRM & CRM systems
+- Analysed business and information needs for an agricultural client and translated them into a target-state reporting model, integrating HubSpot, Shopify, HRM and CRM data to support management reporting and operational oversight. The new data connections enabled a more reliable reporting foundation, reduced manual reporting effort by 2 days per month, and improved visibility for operational decision-making across teams.
 
-- Modernized ADC's internal reporting from Excel to a modern data stack in Azure and Power BI, reducing monthly manual work from 2 days to 15 minutes
+- Modernized internal reporting from Excel to an Azure and Power BI stack, reducing monthly manual reporting effort from 2 days to 15 minutes and increasing the reliability of recurring outputs.
 
-- Co-developed a [website](https://dementie.nl) to better inform Dutch municipalities about dementia
+- Co-developed a [website](https://www.dementieinkaart.nl/mosaic/thema-s/samenvatting) to improve access to dementia-related information for Dutch municipalities and support better-informed guidance.
 
 
 
@@ -51,11 +51,11 @@ May 2022 – Aug 2023
 
 1 year 4 months
 
-- Led data strategy, analysis and reporting projects for the biggest Dutch roadside assistance company, working closely with the Business Change & Innovation department
+- Led data strategy, analysis and reporting initiatives for the largest roadside assistance provider in the Netherlands, working closely with the Business Change & Innovation department to translate operational questions into decision-relevant analytics.
 
-- Facilitated decision making by regularly presenting strategic findings and recommendations to management and board-level executives
+- Facilitated decision-making by presenting findings and recommendations to management and board-level stakeholders, supporting strategic prioritisation and operational improvement.
 
-- Completed the Harvest Data Engineering program including 20 masterclasses, gaining broad knowledge on data science and data engineering topics
+- Completed the Harvest Data Engineering programme, including 20 masterclasses, broadening expertise across data engineering, data science and applied analytics in a business context.
 
 
 
@@ -67,9 +67,9 @@ Sept 2021 – Feb 2022
 
 6 months
 
-- Conducted fundamental research on automated image data cleaning techniques for Deep Learning Computer Vision algorithms
+- Conducted research into automated image data cleaning techniques for deep learning computer vision algorithms, with a focus on improving data quality and reducing manual remediation.
 
-- Published academic work and won best presentation [award](https://www.ipmv.org/2022.html) at IPMV 2022: Witte, B. D., Bouarfa, S., & Geradts, Z. (2022, March). A quantitative comparison of automated cleaning techniques for web scraped image data of ‘Smart Cities’. In Proceedings of the 4th International Conference on Image Processing and Machine Vision (pp. 64-71)
+- Published academic work and won best presentation [award](https://www.ipmv.org/2022.html) at IPMV 2022: Witte, B. D., Bouarfa, S., & Geradts, Z. (2022, March). A quantitative comparison of automated cleaning techniques for web scraped image data of ‘Smart Cities’. In Proceedings of the 4th International Conference on Image Processing and Machine Vision (pp. 64-71).
 
 
 
@@ -81,7 +81,7 @@ May 2021 – Aug 2021
 
 4 months
 
-- Successfully revealed churn indicators and built a machine learning model to predict customer churn, which helped improve customer retention efforts
+- Identified churn indicators and built a machine learning model to predict customer churn, supporting retention efforts with a more evidence-based prioritisation of interventions.
 
 
 
@@ -108,9 +108,9 @@ GPA: 8.1/10, Cum Laude | Thesis grade: 8.0
 
 
 
-## **University of Cape Town (UCT)**, Civil Engineering
+## **University of Cape Town (UCT)**, Exchange Program, Civil Engineering
 
-**Minor**
+
 
 
 July 2019 – Dec 2019
@@ -129,16 +129,12 @@ GPA: 8.3/10, Cum Laude
 
 
 # Skills
-**Programming languages:** SQL, Python, DAX, YAML
+**Business analysis:** Requirements gathering, process mapping, gap analysis, KPI definition, stakeholder management, solution design, change management, cross-functional collaboration, project management
 
-**Cloud:** Google (GCP), Fabric, Databricks, Snowflake, Azure
+**Data & reporting:** SQL, Python, DAX, Power BI, Looker, reporting, data analysis, data quality, data storytelling, self-service analytics, visualization
 
-**Engineering:** PySpark, dbt, Github, API frameworks, Github Actions, Docker, Fivetran
+**Tools / technical proficiency:** PySpark, dbt, GitHub, GitHub Actions, Docker, Fivetran, Google (GCP), Fabric, Databricks, Snowflake, Azure, YAML, API frameworks
 
-**BI / Data visualization:** PowerBI, Streamlit, Qlik, Looker Studio, Figma
+**Certificates:** Influential Communication (Bureau Zuidema), Design Thinking, PL-300 Microsoft Power BI, dbt Fundamentals, Azure AZ-900, PSM-1
 
-**Hard skills:** Requirements Gathering, Data Analytics, Visualization, Modeling, Quality, Dashboarding, Agile, Version control, ETL/ELT, Conversational Analytics, Machine/Deep Learning
-
-**Soft skills:** Critical thinking, Stakeholder Management, Strong verbal and written communication skills, Teaching, Mentoring, Strategic thinking, Ownership
-
-**Certificates:** Influential Communication, Design Thinking, PL-300 Microsoft Power BI, dbt Fundamentals, Azure AZ-900, PSM-1
+**Domain & Clients:** Retail (IKEA, Albert Heijn/Microsoft, Wilderland), Finance (Bridgefund, ABN AMRO Verzekeringen), Manufacturing (Sandvik), Mobility (ANWB), Healthcare (Sigra, VWS)
